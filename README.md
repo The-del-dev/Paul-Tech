@@ -1,4 +1,4 @@
-<h1>Hi, I'm Paul! <br/><a href="https://github.com/minyarupaul36kor1">Programmer</a>, <a href="https://www.linkedin.com/in/minyarupaul36kor/">Cybersecurity Professional</a>, <a href="https://www.youtube.com/c/minyarupaul36or">YouTuber</a></h1>
+<h1>Hi, I'm Paul! <br/><a href="https://github.com/minyarupaul36kor1">FrontEndDeveloper</a>, <a href="https://www.linkedin.com/in/minyarupaul36kor/">Cybersecurity Professional</a>, <a href="https://www.youtube.com/c/minyarupaul36or">YouTuber</a></h1>
 
 <h2>👨‍💻 Software Development Projects:</h2>
 
